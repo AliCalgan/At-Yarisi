@@ -1,0 +1,11 @@
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.Form1.resources
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.Properties.Resources.resources
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.csproj.GenerateResource.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\bin\Debug\SifreÜretme.exe.config
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\bin\Debug\SifreÜretme.exe
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\bin\Debug\SifreÜretme.pdb
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.exe
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\SifreÜretme\obj\Debug\SifreÜretme.pdb

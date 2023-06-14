@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Win_Form_At_Yarışı", "Win_Form_At_Yarışı\Win_Form_At_Yarışı.csproj", "{9EFFB9A0-36BD-4BE3-B436-CC68A3DE3380}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SifreÜretme", "SifreÜretme\SifreÜretme.csproj", "{8817CE81-717D-4E09-BDC7-AF60EF77B6CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9EFFB9A0-36BD-4BE3-B436-CC68A3DE3380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9EFFB9A0-36BD-4BE3-B436-CC68A3DE3380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9EFFB9A0-36BD-4BE3-B436-CC68A3DE3380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9EFFB9A0-36BD-4BE3-B436-CC68A3DE3380}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8817CE81-717D-4E09-BDC7-AF60EF77B6CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8817CE81-717D-4E09-BDC7-AF60EF77B6CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8817CE81-717D-4E09-BDC7-AF60EF77B6CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8817CE81-717D-4E09-BDC7-AF60EF77B6CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA6FA071-F1AA-4D7B-A87B-FCD3F5C2A155}
+	EndGlobalSection
+EndGlobal

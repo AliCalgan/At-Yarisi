@@ -1,0 +1,11 @@
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\bin\Debug\Win_Form_At_Yarışı.exe.config
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\bin\Debug\Win_Form_At_Yarışı.exe
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\bin\Debug\Win_Form_At_Yarışı.pdb
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.csproj.AssemblyReference.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.csproj.SuggestedBindingRedirects.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.Form1.resources
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.Properties.Resources.resources
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.csproj.GenerateResource.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.csproj.CoreCompileInputs.cache
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.exe
+C:\Users\alica\Desktop\Win_Form_At_Yarışı\Win_Form_At_Yarışı\obj\Debug\Win_Form_At_Yarışı.pdb
